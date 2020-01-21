@@ -39,4 +39,3 @@ jobs:
       - pip install -e exonum-python-client
     script:
       - echo "foo"
-      - python -m unittest -v
